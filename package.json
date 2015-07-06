@@ -1,0 +1,19 @@
+{
+  "name": "plymouth-js-site",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Plymouth-JS/plymouth-js-site.git"
+  },
+  "author": "Andy Mantell <contact@andymantell.com> (http://andymantell.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plymouth-JS/plymouth-js-site/issues"
+  },
+  "homepage": "https://github.com/Plymouth-JS/plymouth-js-site"
+}
