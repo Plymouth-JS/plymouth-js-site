@@ -9,6 +9,9 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'src/ui/css/main.css': 'src/ui/scss/main.scss'
+        },
+        options: {
+          outputStyle: 'compressed'
         }
       }
     },
