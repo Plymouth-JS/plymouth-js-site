@@ -1,2 +1,4 @@
 /plymouth-js-site.sublime-project
 /plymouth-js-site.sublime-workspace
+/node_modules
+/src/ui/css
