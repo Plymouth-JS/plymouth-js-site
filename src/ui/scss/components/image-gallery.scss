@@ -1,6 +1,12 @@
 .image-gallery {
+  h2
+  {
+    padding-left: 10px;
+  }
   img
   {
+    display: block;
     padding: 10px;
+    margin: auto;
   }
 }
